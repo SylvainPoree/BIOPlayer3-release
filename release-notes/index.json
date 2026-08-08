@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-08-08T17:30:05.183Z",
+  "versions": [
+    {
+      "version": "3.0.0-beta.34",
+      "channel": "beta",
+      "languages": [
+        "cs",
+        "dt",
+        "el",
+        "en",
+        "es",
+        "fc",
+        "fr",
+        "he",
+        "it",
+        "ja",
+        "lv",
+        "nl",
+        "no",
+        "pl",
+        "pt",
+        "ru",
+        "sl",
+        "sv"
+      ]
+    }
+  ]
+}
