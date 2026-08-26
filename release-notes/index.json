@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-08-26T20:48:31.568Z",
+  "updatedAt": "2026-08-26T20:55:55.224Z",
   "versions": [
     {
       "version": "3.0.0-beta.32",
@@ -123,7 +123,24 @@
       "version": "3.0.0-beta.39",
       "channel": "beta",
       "languages": [
-        "fr"
+        "cs",
+        "dt",
+        "el",
+        "en",
+        "es",
+        "fc",
+        "fr",
+        "he",
+        "it",
+        "ja",
+        "lv",
+        "nl",
+        "no",
+        "pl",
+        "pt",
+        "ru",
+        "sl",
+        "sv"
       ]
     }
   ]
