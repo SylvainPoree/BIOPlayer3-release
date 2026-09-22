@@ -1,0 +1,11 @@
+# BIOPlayer 3.1.0
+- catalogue IBF 2012, possibilité de lancer les musique, créer des exercices et copier du texte à partir du catalog
+- ajout de dossier par défaut pour les séances et pour les musiques
+- possibilite de modifier son pseudo
+- visibilité du crayon même quand c'est cet exercice qu'on met à jour
+- bug : parfois des exercices apparassaient en blanc alors qu'il n'était joués, ni écrits
+- Amélioration de traductions
+- Amélioration du retour visuel lors de la création ou mise à jour de l'index
+- Amélioration des rendus des spectres de musique
+- ajout, à la création du numéro de tel, et de prof ou pas prof
+- renforcement de la possibilité d'avoir à la fois la version beta et la version stable

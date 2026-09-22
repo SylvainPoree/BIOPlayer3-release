@@ -1,0 +1,11 @@
+# BIOPlayer 3.1.0
+- Katalog IBF 2012: možnost přehrávat hudbu, vytvářet cvičení a kopírovat text z katalogu
+- Přidána výchozí složka pro sezení a hudbu
+- Možnost změnit přezdívku
+- Tužka zůstává viditelná i tehdy, když se aktualizuje právě toto cvičení
+- Oprava chyby: některá cvičení se někdy zobrazovala bíle, i když se nepřehrávala ani neupravovala
+- Vylepšení překladů
+- Vylepšení vizuální zpětné vazby při vytváření nebo aktualizaci indexu
+- Vylepšení vykreslování hudebních spekter
+- Při vytváření účtu bylo přidáno telefonní číslo a stav učitel/neučitel
+- Posílena možnost mít současně nainstalovanou beta verzi i stabilní verzi
