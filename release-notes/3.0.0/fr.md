@@ -39,7 +39,7 @@
 
 - Étendu sur toutes les configurations de musiques et exercices
 
-## Flux de musique
+## Enchaînement des musiques
 
 - Boucle sur une musique
 - Séquence de musiques

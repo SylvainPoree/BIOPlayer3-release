@@ -6,5 +6,5 @@
 - UI : élargissement de la zone de message avant les recherches 
 - UI : note dans le disque pour les musiques en cours de lecture
 - UI :  déplacement replier/déplier près du bouton ajouer un exo
-- FONC : menu contextuel pour changer les flux
+- FONC : menu contextuel pour changer les enchaînements
 - TECH : travail sur la separation des versions dev beta pro et MAJ automatiques
