@@ -25,3 +25,4 @@ DEBUG
 - Lors de l'analyse de nombreux fichiers musicaux, les délais d'attente sont libérés dès que chaque analyse est terminée, ce qui évite de conserver des tâches inutiles.
 - BIOAdmin Les demandes de création de compte, de clé oubliée et les opérations de l'outil Admin DB cessent d'attendre après 30 secondes si le service ne répond pas. Une demande expirée n'est pas relancée automatiquement.
 - La vérification de connexion referme correctement les requêtes qui expirent et termine la lecture des réponses reçues.
+

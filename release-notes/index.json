@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-10-30T22:41:41.952Z",
+  "updatedAt": "2026-10-30T22:43:14.769Z",
   "versions": [
     {
       "version": "3.0.0-beta.32",
@@ -800,26 +800,7 @@
       "version": "3.1.4-beta.6",
       "channel": "beta",
       "languages": [
-        "ca",
-        "cs",
-        "dt",
-        "el",
-        "en",
-        "es",
-        "eu",
-        "fc",
-        "fr",
-        "he",
-        "it",
-        "ja",
-        "lv",
-        "nl",
-        "no",
-        "pl",
-        "pt",
-        "ru",
-        "sl",
-        "sv"
+        "fr"
       ]
     },
     {
@@ -832,6 +813,41 @@
     {
       "version": "3.1.4-dev.1",
       "channel": "dev",
+      "languages": [
+        "fr"
+      ]
+    },
+    {
+      "version": "3.1.4-dev.3",
+      "channel": "dev",
+      "languages": [
+        "fr"
+      ]
+    },
+    {
+      "version": "3.1.4-dev.4",
+      "channel": "dev",
+      "languages": [
+        "fr"
+      ]
+    },
+    {
+      "version": "3.1.4-dev.5",
+      "channel": "dev",
+      "languages": [
+        "fr"
+      ]
+    },
+    {
+      "version": "3.1.4-dev.6",
+      "channel": "dev",
+      "languages": [
+        "fr"
+      ]
+    },
+    {
+      "version": "3.1.4",
+      "channel": "stable",
       "languages": [
         "fr"
       ]
