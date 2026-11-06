@@ -1,0 +1,11 @@
+# BIOPlayer 3.1.0
+- IBF 2012-katalog: möjlighet att spela musik, skapa övningar och kopiera text från katalogen
+- Lade till en standardmapp för sessioner och musik
+- Lade till möjlighet att ändra smeknamn
+- Pennan förblir synlig även när just den övningen uppdateras
+- Buggfix: övningar visades ibland i vitt trots att de varken spelades upp eller redigerades
+- Förbättrade översättningar
+- Förbättrad visuell återkoppling vid skapande eller uppdatering av indexet
+- Förbättrad rendering av musikspektra
+- Lade till telefonnummer och status som lärare eller inte lärare när kontot skapas
+- Förbättrade möjligheten att ha både betaversionen och den stabila versionen installerade samtidigt
