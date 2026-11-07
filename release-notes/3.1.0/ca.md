@@ -1,0 +1,11 @@
+# BIOPlayer 3.1.0
+- Catàleg IBF 2012: possibilitat de reproduir música, crear exercicis i copiar text des del catàleg
+- Afegida una carpeta predeterminada per a les sessions i per a la música
+- Possibilitat de modificar el pseudònim
+- El llapis roman visible fins i tot quan s'està actualitzant aquest exercici
+- Correcció d'un error: de vegades alguns exercicis apareixien en blanc tot i que no s'estaven reproduint ni editant
+- Millora de les traduccions
+- Millora del retorn visual durant la creació o actualització de l'índex
+- Millora de la renderització dels espectres de música
+- Afegits el número de telèfon i l'estat de professor o no professor en crear el compte
+- Reforçada la possibilitat de tenir instal·lades alhora la versió beta i la versió estable
