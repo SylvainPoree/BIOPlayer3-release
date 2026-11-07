@@ -1,0 +1,11 @@
+# BIOPlayer 3.1.0
+- IBF 2012 katalogoa: musika erreproduzitu, ariketak sortu eta katalogotik testua kopiatzeko aukera
+- Saioetarako eta musikarako karpeta lehenetsia gehitu da
+- Ezizena aldatzeko aukera gehitu da
+- Arkatza ikusgai geratzen da ariketa hori eguneratzen ari denean ere
+- Akats zuzenketa: batzuetan ariketak zuriz agertzen ziren, nahiz eta ez erreproduzitzen ez editatzen ari
+- Itzulpenak hobetu dira
+- Indizea sortzean edo eguneratzean ikusizko erantzuna hobetu da
+- Musika-espektroen errendatzea hobetu da
+- Kontua sortzean telefono-zenbakia eta irakasle/ez-irakasle egoera gehitu dira
+- Beta bertsioa eta bertsio egonkorra aldi berean instalatuta edukitzeko aukera indartu da
