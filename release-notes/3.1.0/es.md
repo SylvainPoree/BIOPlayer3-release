@@ -1,0 +1,11 @@
+# BIOPlayer 3.1.0
+- Catálogo IBF 2012: posibilidad de reproducir música, crear ejercicios y copiar texto desde el catálogo
+- Añadida una carpeta predeterminada para las sesiones y para la música
+- Añadida la posibilidad de modificar el seudónimo
+- El lápiz permanece visible incluso cuando se está actualizando ese ejercicio
+- Corrección de un error: a veces algunos ejercicios aparecían en blanco aunque no se estuvieran reproduciendo ni editando
+- Mejora de las traducciones
+- Mejora del retorno visual durante la creación o actualización del índice
+- Mejora del renderizado de los espectros de música
+- Añadidos el número de teléfono y el estado de profesor o no profesor al crear la cuenta
+- Reforzada la posibilidad de tener instaladas a la vez la versión beta y la versión estable
